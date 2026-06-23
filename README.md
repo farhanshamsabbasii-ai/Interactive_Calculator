@@ -66,6 +66,6 @@ Enter the second number: 2
 
 ## 👨‍💻 Author
 
-Built by **Ali Hasnain** as part of the **Code to AI — Python & Data Science** course.
+Built by **Farhan Ali** as part of the **Code to AI — Python & Data Science** course.
 
 > From Code to AI — let's build the future together. 🐍🚀
